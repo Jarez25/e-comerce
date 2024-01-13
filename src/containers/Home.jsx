@@ -4,7 +4,7 @@ export const Home = () => {
     return(
         <Layout>
             <div className="text-blue-500">
-                home
+                Home
             </div>
         </Layout>
     )
